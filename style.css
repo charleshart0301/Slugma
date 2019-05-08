@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arimo', sans-serif;
+}
+.title{
+    height:500px;
+    width:100%;
+    background-image:url("https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/07/14/21/SU18-slug.jpg?w968h681");
+    color:lightgreen;
+}
+
+.title h1 {
+    font-size:80px;
+    text-align:center;
+    font-family: 'Inconsolata', monospace;
+
+}
+
+.about {
+    background-color:red;
+    height:100%;
+    width:100%;
+    text-align:center;
+
+}
+.about h2{
+    color:blue;
+    font-size:40px;
+    margin:0;
+    
+}
+.about img {
+    height:200px;
+    border-radius:50%;
+    border:yellow 10px dotted;
+    margin-top:20px;
+    margin-bottom:20px;
+
+}
+.about p {
+    color:gold;
+    font-size:30px;
+    padding:50px;
+    font-family: 'Quicksand', sans-serif;
+
+}
