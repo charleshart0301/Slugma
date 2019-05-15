@@ -5,7 +5,7 @@ body {
     height:500px;
     width:100%;
     background-image:url("https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/07/14/21/SU18-slug.jpg?w968h681");
-    color:lightgreen;
+    color:blueviolet;
 }
 
 .title h1 {
@@ -42,4 +42,52 @@ body {
     padding:50px;
     font-family: 'Quicksand', sans-serif;
 
+}
+.humane_about {
+    background-color:magenta;
+    height:100%;
+    width:100%;
+    text-align:center;
+
+}
+.humane_about h2 {
+    color: greenyellow;
+    font-size:40px;
+    margin:5;
+   
+}
+.humane img {
+    height:200px;
+    border:hotpink 10px dotted;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.humane_about p {
+    color:darkgreen;
+    font-size:30px;
+    padding:50px;
+    font-family: 'Quicksand', sans-serif;
+}
+.success {
+    background-color:darkred;
+    height:100%;
+    width:100%;
+    text-align:center;
+}
+.success h2{
+    color:lightgreen;
+    font-size:40px;
+    margin:5;
+}
+.success p{
+    color:lightgreen;
+    font-size:30px;
+    padding:50px;
+    font-family: 'Quicksand', sans-serif;
+}
+.success img{
+    height:200px;
+    border:hotpink 10px dotted;
+    margin-top:20px;
+    margin-bottom:20px;
 }
